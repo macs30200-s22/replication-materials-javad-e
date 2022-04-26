@@ -31,4 +31,5 @@ Finally, the third hypothesis was that the undemocratic arm is distancing itself
 ![image](https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-04-25%20at%2020.06.34.png)
 
 
+The preliminary results presented above is promising but based on a linear analysis of word frequencies. The next step is to implement a tf-idf framework for more accurate results.
 
