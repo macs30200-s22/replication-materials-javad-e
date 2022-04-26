@@ -4,10 +4,28 @@ Please use `requirements.txt` file to install all the required packages and depe
 ```
 pip install -r requirements.txt
 ```
+The presented figures can be replicated by running the ```analysis.ipynb``` notebook.
 
 Data Collection: The three scrapers, gather a collection of ~370 speeches.
+
+# Preliminary Results
+
+Please note that in the following graphs:
+- The x axis presents years in the Persian calendar (we are currently in year 1401).
+- The y axis corresponds to the mean frequency of the terms related to the topics normalized by speech length.
+- The dotted lines indicate Iran's presidential elections.
 
 Through a preliminary analyses I test the three main hypotheses of the project.
 First, as illustrated in the first graph, attention to economic policies has been significantly increasing over time. We can also observe how presedential elections cause shocks.
 ![image](https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-04-25%20at%2020.06.18.png)
-The trend line illustrates changes in the mean frequency of the words related to the topic normalized by speech length.
+
+
+Second, the second hypothesis was about the undemocratic arm of the government shifting its attention from becoming “economically independent”, creating a “resistive economy”, and implementing an “Islamic economy” to more pragmatic policies. Figure 2 provides empirical evidence supporting this claim.
+![image](https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-04-25%20at%2020.06.27.png)
+
+
+Finally, the third hypothesis was that the undemocratic arm is distancing itself from socialism and moving toward free market policies. The graph presented below contradicts this hypothesis. Looking at the y-axis values, there is no significant change in the trend, and if anaything, the trend is certainly not negative.
+![image](https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-04-25%20at%2020.06.34.png)
+
+
+
