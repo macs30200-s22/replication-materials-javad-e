@@ -1,5 +1,7 @@
 # replication-materials-javad-e
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6486536.svg)](https://doi.org/10.5281/zenodo.6486536)
+
 Please use `requirements.txt` file to install all the required packages and dependencies for this project by running:
 ```
 pip install -r requirements.txt
