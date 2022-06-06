@@ -5,3 +5,13 @@ sklearn==1.0.2
 matplotlib==3.4.4
 numpy==1.22.3
 seaborn==0.11.2
+jellyfish==0.9.0
+csv==0.14.1
+bidi==0.4.2
+wordcloud==1.8.1
+ast==0.0
+nltk==3.6.5
+pyLDAvis==3.3.1
+scipy==1.6.2
+BeautifulSoup==4.9.3
+
