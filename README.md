@@ -2,10 +2,13 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6486536.svg)](https://doi.org/10.5281/zenodo.6486536)
 
-Please use `requirements.txt` file to install all the required packages and dependencies for this project by running:
+The code is written in Python 3.9.7. Please use `requirements.txt` file to install all the required packages and dependencies for this project by running:
 ```
 pip install -r requirements.txt
 ```
+To replicate results, start by running the scrappers and cleaning code in ``` scrape and clean ``` directory. Then you can run the topic modeling, TF-IDF and word count files placed in the ``` analysis ``` directory.
+
+To cite the data or code, please use Zenodo DOI.
 
 # Abstract
 Commentators have been speculating changes in the views of the unelected arm of the Iranian government. However, these speculations have not been empirically analyzed. Over the past 42 years, Tehran’s 17 Friday Imams have been delivering speeches every week on political, economic, and social topics. Directly appointed by Iran’s Supreme Leader, the Friday Imams are known as the representatives of the unelected arm of the government. In this study, I collect a dataset of over 340 Friday speeches to explore the changes in the economic values and priorities of the unelected arm. I find a significant increase in attention given to economic topics since 2015. Furthermore, there was a sharp rise in the frequency of unpragmatic economic ideas, such as creating a self-sufficient "resistive economy" immediately after the United States and the United Nations Security Council imposed sanctions on Iran. Being highly correlated with economic performance, the popularity of such ideas has been declining since 2013. Finally, it is discovered several turning points in the trends coincide with presidential elections. Although more evidence is required, this final result could be implying the reorientation of the unelected arm as a consequence of the election results.
