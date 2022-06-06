@@ -17,16 +17,21 @@ Commentators have been speculating changes in the views of the unelected arm of 
 The following graphs illustrate the results of testing the three main hypotheses of the paper
 As shown in the first graph, attention to economic topics has been significantly increasing since 2015. The observed trend is in line with the economic situation. Iran’s horrific economic downturn began in 2012 caused by the United Nations Security Council resolutions and the United States trade sanctions against Iran combined with the drop in oil prices.
 
-<img src="https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2016.52.55.png" width="500">
+<img src="https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2016.52.55.png" width="400">
 
 The second hypothesis was about the unelected arm of the government shifting its attention from the unpragmatic ideas of implementing a self-sufficient and "resistive" economy to more pragmatic policies. Figure 2 provides empirical evidence supporting this argument. In the early years of the sanctions when they did not have as many consequences as expected, the government became hopeful that it can build its ideal resistive economy. Hence, the mentions of such topics grew by 600 percent between the years 2011 to 2013. However, as the oil prices went down so too did Iran’s economy. As a consequence, the popularity of these unpragmatic ideas sharply declined to almost zero.
 
-<img src="https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2016.54.53.png" width="500">
+<img src="https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2017.04.24.png" width="400">
 
 The third hypothesis was that the unelected arm is distancing itself from socialism and moving toward free-market policies. The graph presented below contradicts this hypothesis. There appears to be no monotonic trend.
 
-<img src="https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2016.54.26.png" width="500">
+<img src="https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2017.04.50.png" width="400">
 
-One thought-provoking finding of this study is the effect of presidential elections on the discussed trends. The 2013 and 2017 election years, specified by dotted lines in figure 5, are associated with strong turning points in promoting the idea of a resistive economy and socialist ideas. This observation is potentially linked to the concept of the reorientation of authoritarian regimes. However, more supporting evidence is required to confirm a causal relationship between the presidential elections and turning points in the trends.
+One thought-provoking finding of this study is the effect of presidential elections on the discussed trends. The 2013 and 2017 election years are associated with strong turning points in promoting the idea of a "resistive economy" and socialist ideas. This observation is potentially linked to the concept of the reorientation of authoritarian regimes. However, more supporting evidence is required to confirm a causal relationship between the presidential elections and turning points in the trends.
+
+Finally, the paper also analyzes how individual speakers with different political inclinations behave differently. The figure below is an example of how the Principlists and Reformists promoted the idea of a "resistive economy".
+
+<img src="https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2021.26.38.png" width="400">
+
 
 
