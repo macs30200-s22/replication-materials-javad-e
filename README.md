@@ -17,8 +17,7 @@ Commentators have been speculating changes in the views of the unelected arm of 
 The following graphs illustrate the results of testing the three main hypotheses of the paper
 As shown in the first graph, attention to economic topics has been significantly increasing since 2015. The observed trend is in line with the economic situation. Iran’s horrific economic downturn began in 2012 caused by the United Nations Security Council resolutions and the United States trade sanctions against Iran combined with the drop in oil prices.
 
-![image](https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2016.52.55.png width="50")
-
+<img src="[https://your-image-url.type](https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2016.52.55.png)" width="100"
 
 The second hypothesis was about the unelected arm of the government shifting its attention from the unpragmatic ideas of implementing a self-sufficient and "resistive" economy to more pragmatic policies. Figure 2 provides empirical evidence supporting this argument. In the early years of the sanctions when they did not have as many consequences as expected, the government became hopeful that it can build its ideal resistive economy. Hence, the mentions of such topics grew by 600 percent between the years 2011 to 2013. However, as the oil prices went down so too did Iran’s economy. As a consequence, the popularity of these unpragmatic ideas sharply declined to almost zero.
 
