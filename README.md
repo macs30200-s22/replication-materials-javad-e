@@ -25,7 +25,7 @@ The second hypothesis was about the unelected arm of the government shifting its
 
 The third hypothesis was that the unelected arm is distancing itself from socialism and moving toward free-market policies. The graph presented below contradicts this hypothesis. There appears to be no monotonic trend.
 
-<img src="https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2017.04.50.png" width="400">
+<img src="https://raw.githubusercontent.com/macs30200-s22/replication-materials-javad-e/main/figures/Screen%20Shot%202022-06-05%20at%2017.04.50.png" width="380">
 
 One thought-provoking finding of this study is the effect of presidential elections on the discussed trends. The 2013 and 2017 election years are associated with strong turning points in promoting the idea of a "resistive economy" and socialist ideas. This observation is potentially linked to the concept of the reorientation of authoritarian regimes. However, more supporting evidence is required to confirm a causal relationship between the presidential elections and turning points in the trends.
 
